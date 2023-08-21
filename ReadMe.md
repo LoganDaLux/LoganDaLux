@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou um desenvolvedor apaixonado em busca de novas oportunidades emocionantes no campo da tecnologia. Com habilidades em HTML, CSS, Javascript e Java, tenho como objetivo transformar códigos em experiências incríveis e amigáveis ​​para o usuário. Meu foco está na área de Front End, onde posso aplicar minha criatividade e habilidades técnicas para criar interfaces atraentes e responsivas.
+I'm a passionate developer looking for exciting new opportunities in the field of technology. With skills in HTML, CSS, Javascript and Java, I aim to transform codes into amazing and user-friendly experiences. My focus is on the Front End area, where I can apply my creativity and technical skills to create attractive and responsive interfaces.
 
 
 ## 🌐 Socials:
